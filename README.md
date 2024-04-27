@@ -3,7 +3,8 @@
 <H3>EX. NO.7</H3>
 <H3>DATE:27.04.2024</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
-<H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
+<H3>Aim:</H3> 
+To perform automatic text summarization using Natural Language Processing (NLP) techniques.
  <BR>
 <h3>Algorithm:</h3>
 Step 1 Import necessary libraries for natural language processing tasks.<BR>
@@ -18,7 +19,7 @@ Step 5: Construct the main program to read the paragraph  and perform text summa
       - Generate and print the text summary using the  Text Summarization function<br>
 <H3>Program:</H3>
 
-```
+```py
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize,sent_tokenize
@@ -80,5 +81,5 @@ print(summary)
 
 <H3>Result:</H3>
 
-Thus ,The program to perform the Text summarization is executed Sucessfully.
+Thus, the program to perform the Text summarization is executed Sucessfully.
 
